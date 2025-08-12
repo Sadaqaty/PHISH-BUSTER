@@ -1,0 +1,11 @@
+{
+  "name": "phish-buster",
+  "version": "1.0.0",
+  "description": "PhishBuster is a tool designed to combat phishing attacks by flooding phisher databases with false information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "QuickSilver",
+  "license": "ISC"
+}
